@@ -92,7 +92,7 @@ div.campo > input {
     border: 0px;
     border-radius: 5px;
     padding: 5px;
-    transform: translateY(-5.2px);
+    transform: translateY(-5.5px);
 }
 
 div.campo > input::placeholder {
