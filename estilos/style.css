@@ -91,8 +91,8 @@ div.campo > input {
     height: 100%;
     border: 0px;
     border-radius: 5px;
-    padding: 4px;
-    transform: translateY(-5px);
+    padding: 5px;
+    transform: translateY(-5.2px);
 }
 
 div.campo > input::placeholder {
